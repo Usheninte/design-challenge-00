@@ -58,4 +58,8 @@ body {
   #game-of-week {
     padding: 0.9em 4em 0 4em;
   }
+
+  .game {
+    width: 100%;
+  }
 }
