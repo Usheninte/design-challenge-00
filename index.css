@@ -28,3 +28,13 @@ body {
     height: auto;
   }
 }
+
+@media all and (max-width: 601px) {
+  #main-bar {
+    padding: 0.9em 4em;
+  }
+
+  #game-of-week {
+    padding: 0.9em 4em 0 4em;
+  }
+}
