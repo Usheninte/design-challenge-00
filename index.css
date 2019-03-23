@@ -59,6 +59,12 @@ body {
     padding: 0.9em 4em 0 4em;
   }
 
+  #other-games {
+    display: flex;
+    padding: 1em 8em;
+    align-content: space-between;
+  }
+
   .game {
     width: 100%;
   }
