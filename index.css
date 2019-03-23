@@ -16,3 +16,7 @@ body {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
+
+#game-of-week {
+  padding: 0.9em 7em 0 7em;
+}
