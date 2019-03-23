@@ -17,9 +17,18 @@ body {
   transform: scaleX(-1);
 }
 
-.game {
-  width: 14.9%;
+#game-of-week {
   padding: 0.9em 7em 0 7em;
+}
+
+#other-games {
+  display: flex;
+  padding: 0.5em 7em;
+  justify-content: space-between;
+}
+
+.game {
+  width: 18.1%;
 }
 
 .game-card {
@@ -28,12 +37,8 @@ body {
 
 .game-text {
   margin: 0;
-  padding: 0.3em;
+  padding: 0.2em 1em;
   text-transform: uppercase;
-}
-
-#game-of-week {
-  padding: 0.9em 7em 0 7em;
 }
 
 @media all and (max-width: 1201px) {
