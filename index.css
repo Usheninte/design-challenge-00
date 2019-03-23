@@ -60,9 +60,7 @@ body {
   }
 
   #other-games {
-    display: flex;
     padding: 1em 8em;
-    align-content: space-between;
   }
 
   .game {
