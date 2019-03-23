@@ -20,3 +20,15 @@ body {
 #game-of-week {
   padding: 0.9em 7em 0 7em;
 }
+
+
+@media all and (max-width: 1201px) {
+  #main-game {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media all and (max-width: 601px) {
+
+}
