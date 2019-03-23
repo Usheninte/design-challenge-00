@@ -52,7 +52,7 @@ body {
   #other-games {
     width: 100%;
     display: flex;
-    padding: 0.5em 16.4em;
+    padding: 0.5em 6em;
     justify-content: space-between;
   }
 
@@ -81,22 +81,22 @@ body {
   #other-games {
     width: 100%;
     display: flex;
-    padding: 0.5em 16.4em;
+    padding: 0.5em 6.5em;
     justify-content: space-between;
   }
 
   .game {
     width: 100%;
     display: flex;
+    margin: 0.5em;
     flex-flow: row wrap;
-    margin: 1em;
   }
 
   break{
-    flex-basis: 100%;
     width: 0px;
     height: 0px;
     overflow: hidden;
+    flex-basis: 100%;
   }
 }
 
@@ -123,9 +123,9 @@ body {
   }
 
   break{
-    flex-basis: 100%;
     width: 0px;
     height: 0px;
     overflow: hidden;
+    flex-basis: 100%;
   }
 }
