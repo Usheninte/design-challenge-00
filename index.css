@@ -37,6 +37,7 @@ body {
 
 .game-text {
   margin: 0;
+  height: 4.8em;
   padding: 0.2em 1em;
   text-transform: uppercase;
 }
