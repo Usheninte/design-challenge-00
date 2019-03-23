@@ -59,8 +59,9 @@ body {
   .game {
     width: 100%;
     display: flex;
-    flex-flow: row wrap;
-    margin-bottom: 1em;
+    flex-flow: wrap;
+    flex-direction: row;
+    margin: 1em;
   }
 
   break{
@@ -88,7 +89,7 @@ body {
     width: 100%;
     display: flex;
     flex-flow: row wrap;
-    margin-bottom: 1em;
+    margin: 1em;
   }
 
   break{
