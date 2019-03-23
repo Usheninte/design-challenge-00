@@ -23,7 +23,7 @@ body {
 
 #other-games {
   display: flex;
-  padding: 0.5em 7em;
+  padding: 1em 7em;
   justify-content: space-between;
 }
 
