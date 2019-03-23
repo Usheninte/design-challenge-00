@@ -17,14 +17,24 @@ body {
   transform: scaleX(-1);
 }
 
+.game {
+  width: 14.9%;
+  padding: 0.9em 7em 0 7em;
+}
+
+.game-card {
+  background-color: #f0f0f0;
+}
+
 .game-text {
+  margin: 0;
+  padding: 0.3em;
   text-transform: uppercase;
 }
 
 #game-of-week {
   padding: 0.9em 7em 0 7em;
 }
-
 
 @media all and (max-width: 1201px) {
   #main-game {
