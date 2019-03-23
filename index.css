@@ -17,6 +17,10 @@ body {
   transform: scaleX(-1);
 }
 
+.game-text {
+  text-transform: uppercase;
+}
+
 #game-of-week {
   padding: 0.9em 7em 0 7em;
 }
