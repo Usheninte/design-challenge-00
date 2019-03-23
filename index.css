@@ -5,5 +5,13 @@ body {
 
 #main-bar {
   display: flex;
+  padding: 0.5em 6em;
   justify-content: space-between;
+  background-color: #f0f0f0;
+}
+
+#cart {
+  padding: 0.8em 0;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
 }
